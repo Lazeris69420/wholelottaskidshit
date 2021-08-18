@@ -1,0 +1,6 @@
+C:\Users\BudrisM\Desktop\PirateStealer-main\src\Injector\PirateMonsterInjector\bin\Debug\PirateMonsterInjector.exe.config
+C:\Users\BudrisM\Desktop\PirateStealer-main\src\Injector\PirateMonsterInjector\bin\Debug\PirateMonsterInjector.exe
+C:\Users\BudrisM\Desktop\PirateStealer-main\src\Injector\PirateMonsterInjector\bin\Debug\PirateMonsterInjector.pdb
+C:\Users\BudrisM\Desktop\PirateStealer-main\src\Injector\PirateMonsterInjector\obj\Debug\PirateMonsterInjector.csprojAssemblyReference.cache
+C:\Users\BudrisM\Desktop\PirateStealer-main\src\Injector\PirateMonsterInjector\obj\Debug\PirateMonsterInjector.exe
+C:\Users\BudrisM\Desktop\PirateStealer-main\src\Injector\PirateMonsterInjector\obj\Debug\PirateMonsterInjector.pdb
